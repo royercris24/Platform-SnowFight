@@ -1,2 +1,2 @@
 # Platform-SnowFight
-El primer juego que hice
+The first minigame I made
